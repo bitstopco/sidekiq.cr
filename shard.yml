@@ -23,7 +23,7 @@ dependencies:
     commit: a16f164d3dcfc6e720d566f9085285abdd5b7825
   kemal-csrf:
     github: kemalcr/kemal-csrf
-    commit: e6d75c2128505974b179659cf8e4a66f9b844aee
+    commit: a1d90ff1667d9f2f4815dadf058baf172a67df51
   baked_file_system:
     github: schovi/baked_file_system
     version: ~> 0.9.5
