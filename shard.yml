@@ -17,7 +17,7 @@ dependencies:
     version: ~> 0.2.3
   kemal:
     github: kemalcr/kemal
-    commit: 25b1abcb4791d2b33d76286cd5ee049fcf45bbfd
+    commit: 15022c25b824ecbfe465862bfa8a8e37a4b6ab40
   kemal-session:
     github: kemalcr/kemal-session
     version: ~> 0.12.0
