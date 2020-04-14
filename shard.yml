@@ -23,7 +23,7 @@ dependencies:
     version: ~> 0.12.0
   kemal-csrf:
     github: kemalcr/kemal-csrf
-    version: ~> 0.5.0
+    commit: e6d75c2128505974b179659cf8e4a66f9b844aee
   baked_file_system:
     github: schovi/baked_file_system
     version: ~> 0.9.5
